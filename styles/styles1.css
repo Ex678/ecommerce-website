@@ -122,3 +122,7 @@ body {
     transform: translateY(0);
   }
 }
+
+#themeToggleBtn {
+  border: 0;
+}
